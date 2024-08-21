@@ -1,0 +1,17 @@
+C:\Users\yimij\Documents\ProjetoRabbitMQ\produz\produz\bin\Debug\net8.0\produz.exe
+C:\Users\yimij\Documents\ProjetoRabbitMQ\produz\produz\bin\Debug\net8.0\produz.deps.json
+C:\Users\yimij\Documents\ProjetoRabbitMQ\produz\produz\bin\Debug\net8.0\produz.runtimeconfig.json
+C:\Users\yimij\Documents\ProjetoRabbitMQ\produz\produz\bin\Debug\net8.0\produz.dll
+C:\Users\yimij\Documents\ProjetoRabbitMQ\produz\produz\bin\Debug\net8.0\produz.pdb
+C:\Users\yimij\Documents\ProjetoRabbitMQ\produz\produz\bin\Debug\net8.0\RabbitMQ.Client.dll
+C:\Users\yimij\Documents\ProjetoRabbitMQ\produz\produz\obj\Debug\net8.0\produz.csproj.AssemblyReference.cache
+C:\Users\yimij\Documents\ProjetoRabbitMQ\produz\produz\obj\Debug\net8.0\produz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yimij\Documents\ProjetoRabbitMQ\produz\produz\obj\Debug\net8.0\produz.AssemblyInfoInputs.cache
+C:\Users\yimij\Documents\ProjetoRabbitMQ\produz\produz\obj\Debug\net8.0\produz.AssemblyInfo.cs
+C:\Users\yimij\Documents\ProjetoRabbitMQ\produz\produz\obj\Debug\net8.0\produz.csproj.CoreCompileInputs.cache
+C:\Users\yimij\Documents\ProjetoRabbitMQ\produz\produz\obj\Debug\net8.0\produz.csproj.Up2Date
+C:\Users\yimij\Documents\ProjetoRabbitMQ\produz\produz\obj\Debug\net8.0\produz.dll
+C:\Users\yimij\Documents\ProjetoRabbitMQ\produz\produz\obj\Debug\net8.0\refint\produz.dll
+C:\Users\yimij\Documents\ProjetoRabbitMQ\produz\produz\obj\Debug\net8.0\produz.pdb
+C:\Users\yimij\Documents\ProjetoRabbitMQ\produz\produz\obj\Debug\net8.0\produz.genruntimeconfig.cache
+C:\Users\yimij\Documents\ProjetoRabbitMQ\produz\produz\obj\Debug\net8.0\ref\produz.dll

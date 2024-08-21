@@ -1,0 +1,17 @@
+C:\Users\yimij\Documents\ProjetoRabbitMQ\consome\consumidor\bin\Debug\net8.0\consumidor.exe
+C:\Users\yimij\Documents\ProjetoRabbitMQ\consome\consumidor\bin\Debug\net8.0\consumidor.deps.json
+C:\Users\yimij\Documents\ProjetoRabbitMQ\consome\consumidor\bin\Debug\net8.0\consumidor.runtimeconfig.json
+C:\Users\yimij\Documents\ProjetoRabbitMQ\consome\consumidor\bin\Debug\net8.0\consumidor.dll
+C:\Users\yimij\Documents\ProjetoRabbitMQ\consome\consumidor\bin\Debug\net8.0\consumidor.pdb
+C:\Users\yimij\Documents\ProjetoRabbitMQ\consome\consumidor\bin\Debug\net8.0\RabbitMQ.Client.dll
+C:\Users\yimij\Documents\ProjetoRabbitMQ\consome\consumidor\obj\Debug\net8.0\consumidor.csproj.AssemblyReference.cache
+C:\Users\yimij\Documents\ProjetoRabbitMQ\consome\consumidor\obj\Debug\net8.0\consumidor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yimij\Documents\ProjetoRabbitMQ\consome\consumidor\obj\Debug\net8.0\consumidor.AssemblyInfoInputs.cache
+C:\Users\yimij\Documents\ProjetoRabbitMQ\consome\consumidor\obj\Debug\net8.0\consumidor.AssemblyInfo.cs
+C:\Users\yimij\Documents\ProjetoRabbitMQ\consome\consumidor\obj\Debug\net8.0\consumidor.csproj.CoreCompileInputs.cache
+C:\Users\yimij\Documents\ProjetoRabbitMQ\consome\consumidor\obj\Debug\net8.0\consumidor.csproj.Up2Date
+C:\Users\yimij\Documents\ProjetoRabbitMQ\consome\consumidor\obj\Debug\net8.0\consumidor.dll
+C:\Users\yimij\Documents\ProjetoRabbitMQ\consome\consumidor\obj\Debug\net8.0\refint\consumidor.dll
+C:\Users\yimij\Documents\ProjetoRabbitMQ\consome\consumidor\obj\Debug\net8.0\consumidor.pdb
+C:\Users\yimij\Documents\ProjetoRabbitMQ\consome\consumidor\obj\Debug\net8.0\consumidor.genruntimeconfig.cache
+C:\Users\yimij\Documents\ProjetoRabbitMQ\consome\consumidor\obj\Debug\net8.0\ref\consumidor.dll
